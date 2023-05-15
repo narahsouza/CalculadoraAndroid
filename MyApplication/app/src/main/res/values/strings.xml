@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="digite">Digite os números abaixo:</string>
+    <string name="selecione">Selecione o operador:</string>
+    <string name="somar">+</string>
+    <string name="subtrair">-</string>
+    <string name="multiplicar">×</string>
+    <string name="dividir">÷</string>
+    <string name="resultado">Resultado:</string>
+</resources>
