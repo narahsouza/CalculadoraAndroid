@@ -5,4 +5,4 @@ Atividade proposta: Desenvolver um app que implemente uma calculadora com opera√
 
 Resultado:
 
-<img src="img/01.jpg" alt="print" width="200"/> <img src="img/02.jpg" alt="print" width="200"/> <img src="img/03.jpg" alt="print" width="200"/>
+<img src="img/01_soma.jpg" alt="print" width="200"/> <img src="img/02_teclado.jpg" alt="print" width="200"/> <img src="img/03_soma.jpg" alt="print" width="200"/>
